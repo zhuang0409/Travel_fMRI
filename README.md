@@ -21,10 +21,15 @@ ROI-based analysis:
 Fig4_ROI_analysis.m
 
 Searchlight-based analysis:
+
 Step1. RSA searchlight analysis - searchlight1_xx.m/searchlight2_xx.m/searchlight3_xx.m
+
 Step2. Searchlight4_smoothdata.sh - smoothing data
+
 Step3. Searchlight5_createStatMapRSA.m - to create maps for statistics
+
 Step4. Searchlight6_TFCE_group.m - to make the statistic
+
 Step5. Fig7_ConjunctionAnalysis.m - to compute the conjunction analysis
 
 Additionally, 
